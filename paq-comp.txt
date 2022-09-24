@@ -1,3 +1,5 @@
+NOTA: Estos son los paquetes necesarios para compilar kernel linux en debian (eliminar esta linea al usar este fichero para instalación)
+
 build-essential
 libncurses-dev
 flex
