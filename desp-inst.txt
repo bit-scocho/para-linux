@@ -22,5 +22,6 @@ Cosas que hacer despues de instalar debian:
 13 - Instalar Rofi
 14 - Instalar Neofetch
 15 - Instalar Libreoffice (Inslcuyendo su traducción)
+16 - Instalar Thunar
 
 (SUJETO A POSIBLE EXTENSION)
