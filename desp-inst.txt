@@ -21,5 +21,6 @@ Cosas que hacer despues de instalar debian:
 12 - Modificar la codificacion UTF-8 en "/etc/locale.gen", despues ejecutar "sudo locale-gen"
 13 - Instalar Rofi
 14 - Instalar Neofetch
+15 - Instalar Libreoffice (Inslcuyendo su traducción)
 
 (SUJETO A POSIBLE EXTENSION)
