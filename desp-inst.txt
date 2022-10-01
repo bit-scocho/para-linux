@@ -1,0 +1,23 @@
+
+
+Cosas que hacer despues de instalar debian:
+
+(Preferentemente hacer una instalacion de debian vacia, es decir sin enterno ni nada)
+
+
+1 - Instalar los drivers privativos (antes modificar las mirros)
+2 - Compilar un kernel (Opcional)
+3 - Instalar nala (Opcional)
+4 - Habilitar paquetes 32bits en el gestor dpkg
+5 - Instalar el applet para network manager
+6 - Instalar xfce4-power-manager (en caso de estar en portatil)
+7 - Instalar Pulseaudio, pavucontrol y volumeicon
+8 - Instalar xterm
+9 - Instalar openbox, xdm, feh y xfce4-panel
+10 - Poner "exec openbox-session" en ".xsession"
+11 - Configurar openbox, fondo de pantalla y la barra
+12 - Instalar neovim y configurarlo
+11 - Instalar Steam
+12 - Modificar la codificacion UTF-8 en "/etc/locale.gen", despues ejecutar "sudo locale-gen"
+
+(SUJETO A POSIBLE EXTENSION)
