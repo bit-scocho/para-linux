@@ -19,5 +19,7 @@ Cosas que hacer despues de instalar debian:
 12 - Instalar neovim y configurarlo
 11 - Instalar Steam
 12 - Modificar la codificacion UTF-8 en "/etc/locale.gen", despues ejecutar "sudo locale-gen"
+13 - Instalar Rofi
+14 - Instalar Neofetch
 
 (SUJETO A POSIBLE EXTENSION)
