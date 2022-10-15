@@ -12,3 +12,8 @@ libncurses5-dev
 ccache
 dwarves
 rsync
+bc
+libudev-dev
+libpci-dev
+libiberty-dev
+autoconf
